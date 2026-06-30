@@ -4,8 +4,11 @@
 package numer0n;
 
 import org.junit.jupiter.api.Test;
+
+import numer0n.service.impl.GameManagerImpl;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
-
+    
 }
