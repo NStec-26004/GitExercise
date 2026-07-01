@@ -9,7 +9,8 @@ public class App {
 
     public static void main(String[] args) {
         // ゲームを開始
-        GameManagerImpl gamemane = new GameManagerImpl();
-        gamemane.start();
+        GameManagerImpl gameman = new GameManagerImpl();
+        gameman.start();
+        //修正
     }
 }
